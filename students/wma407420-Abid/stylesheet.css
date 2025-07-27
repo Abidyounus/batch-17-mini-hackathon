@@ -26,6 +26,11 @@
 
         
     }
+    .nav-item .nav-link:hover {
+        background-color:rgb(255, 212, 0);
+        color: rgb(112, 30, 125);
+        
+        }
     form {
         border:1px solid rgb(230, 230, 230);
         align-items: center;
