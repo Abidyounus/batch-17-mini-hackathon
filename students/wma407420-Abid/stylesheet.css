@@ -91,12 +91,18 @@
        
         
     }
-    .branchnetwork h2{
+    .branchnetwork h2 , .servicedesk h3 {
         padding-top: 20px;
         font-weight: 500px;
         color:#ffffff;
         text-align: center;
 
+    }
+    .servicedesk h3 {
+        padding-top: 20px;
+        font-weight: 500px;
+        color:#5a5a5a;
+        text-align: center;
     }
         .branchnetwork h3{
         font-size: 17px;
