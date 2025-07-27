@@ -70,3 +70,36 @@
     .toppic{
         margin: 0;
     }
+    .cardbody h5{
+        color:rgb(113, 80, 186);
+        font-size: 20px;
+        text-align: center;
+        border:none;
+    }
+     .cardbody p{
+        color:#5a5a5a;
+        font-size: 20px;
+        text-align: justify;
+    }
+    .card{
+        border:none;
+    }
+    .branchnetwork{
+        height:512px;
+        width:100%;
+        background-color: rgb(112, 30, 125);
+        margin-top: 150px;
+        
+    }
+        .branchnetwork h3{
+        font-size: 17px;
+        font-weight: 500px;
+        color:#ffffff;
+        
+    }
+    
+        .branchnetwork p{
+        font-size: 13px;
+        color:#ffffff;
+        
+    }
