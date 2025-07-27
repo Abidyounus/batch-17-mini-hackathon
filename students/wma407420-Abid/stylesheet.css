@@ -13,8 +13,9 @@
         
     }
     .submenu{
-        font-size: 20px;
+        font-size: 15px;
         font-family: "Roboto", sans-serif;
+       
         
     }
     .logo img{
@@ -22,39 +23,43 @@
     }
     .subitem{
         border-left: 1px solid rgb(230, 230, 230);
-        height:75px;
+
         
     }
     form {
         border:1px solid rgb(230, 230, 230);
-        margin-left: 15px;
         align-items: center;
-        margin-top: 7px;
+        width:50%;
+        display: flex;
+        justify-content: space-between;
+        
     }
     form input{
         border:none;
+        width:90%;
+    }
+    form i{
+        width:10%;
     }
     .rightmenu{
-        margin-left: 500px;
+        
         height: 75px;
         background-color: rgb(112, 30, 125);
-        width:250px;
+        line-height: 50px;
+        width:200px;
         display: flex;
-        justify-content: center;
-        text-align: center;
-        padding:10px;
+        padding:20px ;
     }
     .rightmenu h2{
         color:rgb(255, 212, 0);
-        font-size: 17px;
-        line-height: 75px;
-        font-weight: bold;
+        font-size: 13px;
+        text-align: justify;
+    
 
     }
     .rightmenu p{
         color:#ffffff;
         font-size: 17px;
-        line-height: 75px;
         font-weight: bold;
 
     }
@@ -129,3 +134,53 @@
     .data{
         padding-top: 200px;
     }
+    .award{
+        background-color:rgb(235, 235, 235);
+    }
+   .award h3{
+    padding-top: 20px;
+        font-weight: 500px;
+        color:rgb(112, 30, 125);
+        text-align: center;
+
+
+   }
+   .topfooter{
+    height:90px;
+    background-color:rgb(112, 30, 125);
+    color:#ffffff;
+    padding:30px 0;
+   }
+    .topfooter i , .topfooter h3{
+    color:#ffffff;
+    font-size: 20px;
+   }
+    .item{
+    
+    border-left: 5px soild #ffffff;
+   }
+   .footer{
+    background-color:rgb(235, 235, 235) ;
+    color:#1F1E1E;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+   
+   }
+   .footer h4{
+    font-size: 14px;
+    font-weight: 700px;
+    color:#1F1E1E;
+    padding-left: 25px;
+   }
+    .footer ul li {
+    
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+    color:#1F1E1E;
+    list-style: none;
+   
+   }
+   ul li i{
+    font-size: 25px;
+    color:#1F1E1E;
+   }
