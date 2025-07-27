@@ -88,18 +88,38 @@
         height:512px;
         width:100%;
         background-color: rgb(112, 30, 125);
-        margin-top: 150px;
+       
         
+    }
+    .branchnetwork h2{
+        padding-top: 20px;
+        font-weight: 500px;
+        color:#ffffff;
+        text-align: center;
+
     }
         .branchnetwork h3{
         font-size: 17px;
         font-weight: 500px;
         color:#ffffff;
+        text-align: center;
+        
         
     }
     
-        .branchnetwork p{
+        .branchnetwork p , .branchnetwork i{
         font-size: 13px;
         color:#ffffff;
+        text-align: center;
         
+    }
+    .branchnetwork i{
+        font-size: 13px;
+        color:#ffffff;
+        text-align: center;
+        margin-left:100px;
+        
+    }
+    .data{
+        padding-top: 200px;
     }
